@@ -14,5 +14,8 @@ Projects maintained by *HITMC*:
   - [RconJobs](https://github.com/hit-mc/RconJobs)
   - [OhMyVanillaMinecraft](https://github.com/hit-mc/OhMyVanillaMinecraft)
   - [FastJoin](https://github.com/hit-mc/fastjoin)
+  - [doublewhite](https://github.com/hit-mc/doublewhite)
+  - [onesmp-waypoint-clustering](https://github.com/hit-mc/onesmp-waypoint-clustering)
+  - [Blame-Fabric](https://github.com/hit-mc/Blame-Fabric)
 
 Feel free to open issues or make pull-requests... and join us! If you like.
