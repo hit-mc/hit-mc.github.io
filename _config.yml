@@ -30,7 +30,7 @@ plugins:
 # Page orders in headbar
 header_pages:
   - projects.md
-  - hack_with_hitmc.md
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
